@@ -73,6 +73,11 @@ The script should create the MarketplaceDB.
 The script should create 3 tables; Applcant, CreditCards and Log. 
 I have preloaded Credit Card and some Applicant data but you can remove this if you want!
 
+## Tables
+Applicant - Holds applicant details.
+CreditCards - Holds Credit Card details.
+Log - Logs everytime a credit card has been offered and the api call has been used. 
+
 ## Todo
 ### Testing Layer
 I did not have the time to add a testing layer. I would have used Moq and NSubstitute for unit testing and asserts to check data. 
