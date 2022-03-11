@@ -58,7 +58,7 @@ INSERT INTO MarketplaceDB.[dbo].[CreditCards]
     (CreditCardName, CreditCardApr, CreditCardDescription,CreditCardMinimumAge, CreditCardMinimumIncome)
 VALUES 
    ('Barclaycard', 2, 'A great credit card for big purchases', 18, 30000),
-   ('Vanquis', 4, 'A good starter card for people wanting to need to money fast', 18, 0);
+   ('Vanquis', 4, 'A good starter card for people needing money fast', 18, 0);
 
 
 ```
