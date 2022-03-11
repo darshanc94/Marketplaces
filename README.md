@@ -8,7 +8,7 @@ I have chosen to use a local sql database for this project. Unfortunately this c
 
 ![image](https://user-images.githubusercontent.com/61197838/157852015-db6ab1e6-d73c-4bb2-ae67-84ed9797ed55.png)
 
-### Step 2: Right click on "New Query" on the "(localdb)\ProjectModels"
+### Step 2: Right click on "New Query" on the "(localdb)\ProjectModels" server
 
 Paste the query below into the window
 
